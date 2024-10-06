@@ -1,7 +1,7 @@
 ﻿# onscripter-jh-gpm280z2
 [WIP] My ONScripter-jh Waveshare GPM280Z2 port
 
-## bugs, todo  
+## Bugs, TODO    
 * button (key) input not good  
 
 ## Prebuild  
@@ -19,3 +19,8 @@ $ ../onscripter-jh/onscripter
 
 ## WinSCP SSH copy files     
 * pi/raspberry  
+
+## Ref  
+* https://blog.csdn.net/AGrapier/article/details/50378531  
+* (dead) https://bitbucket.org/jh10001/onscripter-jh/src/1eb517e6406488697e3a215f0d2817f0bc524c85/?at=default  
+* https://www.waveshare.net/wiki/GPM280Z2  
