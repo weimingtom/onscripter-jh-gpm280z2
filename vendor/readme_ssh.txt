@@ -1,0 +1,10 @@
+怎样获取复古旗GPi CASE 2W的ssh命令行开发程序？参考微雪的GPM280Z2文档，把ssh和wpa_supplicant.conf
+放到tf卡boot分区，然后修改wpa_supplicant.conf配置wifi的名和密。然后用WinSCP和putty进入ssh
+（用pi和raspberry，和树莓派默认相同），然后就可以执行fbset, evtest和aplay获取输入输出信息，
+也可以修改/dev/fb0操纵显示输出，但光标会保留，而且最好先退出retropie系统，否则会显示不到屏幕上。
+联网apt安装软件包和gcc编译应该也不在话下
+
+
+https://www.waveshare.net/wiki/GPM280Z2
+
+怎样获取复古旗GPi CASE 2W的ssh命令行开发程序？参考微雪的GPM280Z2文档，把ssh和wpa_supplicant.conf放到tf卡boot分区，然后修改wpa_supplicant.conf配置wifi的名和密。然后用WinSCP和putty进入ssh（用pi和raspberry，和树莓派默认相同），然后就可以执行fbset, evtest和aplay获取输入输出信息，也可以修改/dev/fb0操纵显示输出，但光标会保留，而且最好先退出retropie系统，否则会显示不到屏幕上。联网apt安装软件包和gcc编译应该也不在话下
