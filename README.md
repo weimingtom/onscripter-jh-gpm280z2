@@ -24,3 +24,15 @@ $ ../onscripter-jh/onscripter
 * https://blog.csdn.net/AGrapier/article/details/50378531  
 * (dead) https://bitbucket.org/jh10001/onscripter-jh/src/1eb517e6406488697e3a215f0d2817f0bc524c85/?at=default  
 * https://www.waveshare.net/wiki/GPM280Z2  
+
+## (TODO) key???
+```
+B=305  
+A=304  
+Y=308  
+X=307  
+START=315  
+SELECT=314  
+L=310  
+R=311  
+```
