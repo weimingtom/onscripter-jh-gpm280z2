@@ -36,3 +36,7 @@ SELECT=314
 L=310  
 R=311  
 ```
+
+## close
+* sudo killall -KILL mc  
+* sudo killall -KILL onscripter  
