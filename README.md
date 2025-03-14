@@ -40,3 +40,8 @@ R=311
 ## close
 * sudo killall -KILL mc  
 * sudo killall -KILL onscripter  
+
+## TODO
+* embed to retropie menu
+see https://sirius10.net/RaspberryPi/ONScripter.html  
+/opt/retropie/configs/ports   
